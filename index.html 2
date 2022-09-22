@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>  
+    <meta charset=UTF-8">
+    <meta https-equiv='X-UA_Compatible' content='IE=edge'>
+    <title>Quitutes</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <marquee brcolor="rosybrown" behavior="alternate"><img src="salgados.jpg">
+        img src="doces.jpg"><img src="sobremesas.jpg"></marquee>
+
+    <h2><em></em><p>Salgados, Doces Sobremesas</p></h2>
+
+    <h3>    <p style="front-size: 20px">Receitas de sobremesas e doces fáceis, práticos e rápidos para você preparar em casa</p></h3>
+</body> 
+</html>
